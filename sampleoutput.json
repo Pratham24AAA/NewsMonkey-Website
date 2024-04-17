@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": null,
+            "title": "WATCH LIVE: Nikki Haley delivers remarks as she suspends her presidential campaign | Fox News Video",
+            "description": "The former governor is expected to end her challenge against Trump but is unlikely to endorse him.",
+            "url": "https://www.foxnews.com/video/6348328893112",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a98ed6ed-5f46-4c5c-a490-8c67352ca23c/c67f0ad0-af05-499a-a970-27ebfd9652aa/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+            "publishedAt": "2024-03-06T14:52:11.2683464Z",
+            "content": "©2024 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes."
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "Biden, Trump set for rematch with Haley dropping out after Super Tuesday",
+            "description": "Following a dominating Super Tuesday from former President Donald Trump, former U.N. Ambassador Nikki Haley is expected to suspend her presidential campaign Wednesday morning. That sets up a redo of the 2020 election with President Biden the incumbent this ti…",
+            "url": "https://www.cbsnews.com/video/biden-trump-set-for-rematch-with-haley-dropping-out-after-super-tuesday/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/03/06/855002f8-80c5-4b8b-9300-7a79ea6de97b/thumbnail/1200x630/68531320f9fd360232feb0048f305236/cbsn-fusion-biden-trump-set-for-rematch-with-haley-dropping-out-after-super-tuesday-thumbnail-2737237-640x360.jpg?v=bc5d8c67ac570dce258200b20849fb01",
+            "publishedAt": "2024-03-06T14:46:02+00:00",
+            "content": "Watch CBS News\r\nCopyright ©2024 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+        }
+    ]
+}
